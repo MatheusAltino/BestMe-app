@@ -8,5 +8,6 @@ Use o App final cada dia para refletir sobre sua jornada.
 
 [] process.stdout
 [] process.stdin
+[] process.on
 
 *Assincronismo
